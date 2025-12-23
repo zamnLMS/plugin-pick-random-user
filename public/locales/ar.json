@@ -1,0 +1,22 @@
+{
+  "pickRandomUserPlugin.modal.pickedUserView.title.currentUserPicked": "تم اختيارك عشوائيًا",
+  "pickRandomUserPlugin.modal.pickedUserView.title.randomUserPicked": "مستخدم تم اختياره عشوائيًا",
+  "pickRandomUserPlugin.modal.pickedUserView.backButton.label": "رجوع",
+  "pickRandomUserPlugin.modal.pickedUserView.avatarImage.alternativeText": "صورة الملف الشخصي للمستخدم {0}",
+  "pickRandomUserPlugin.modal.presenterView.optionSection.title": "الخيارات",
+  "pickRandomUserPlugin.modal.presenterView.optionSection.includeModeratorsLabel": "تضمين المشرفين",
+  "pickRandomUserPlugin.modal.presenterView.optionSection.includePresenterLabel": "تضمين المقدم",
+  "pickRandomUserPlugin.modal.presenterView.optionSection.includePickedUsersLabel": "تضمين المستخدمين الذين تم اختيارهم بالفعل",
+  "pickRandomUserPlugin.modal.presenterView.availableSection.title": "المتاح للاختيار",
+  "pickRandomUserPlugin.modal.presenterView.availableSection.userLabel": "مستخدم",
+  "pickRandomUserPlugin.modal.presenterView.availableSection.userLabelPlural": "مستخدمين",
+  "pickRandomUserPlugin.modal.presenterView.availableSection.viewerLabel": "مشاهد",
+  "pickRandomUserPlugin.modal.presenterView.availableSection.viewerLabelPlural": "مشاهدين",
+  "pickRandomUserPlugin.modal.presenterView.previouslyPickedSection.title": "تم اختيارهم سابقًا",
+  "pickRandomUserPlugin.modal.presenterView.previouslyPickedSection.clearButtonLabel": "مسح الكل",
+  "pickRandomUserPlugin.modal.presenterView.previouslyPickedSection.noUsersWarning": "لا يوجد {0} متاح للاختيار العشوائي",
+  "pickRandomUserPlugin.modal.presenterView.previouslyPickedSection.pickButtonLabel.pickUser": "اختر {0}",
+  "pickRandomUserPlugin.modal.presenterView.previouslyPickedSection.pickButtonLabel.pickAgain": "اختر مرة أخرى",
+  "pickRandomUserPlugin.actionsButtonDropdown.label.pickUser": "اختر مستخدمًا عشوائيًا",
+  "pickRandomUserPlugin.actionsButtonDropdown.label.viewLastPickedUser": "عرض آخر مستخدم تم اختياره عشوائيًا"
+}
