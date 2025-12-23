@@ -23,7 +23,7 @@ const PresenterViewSectionTitle = styled.div`
 
 const PresenterViewSectionClearAllButton = styled.button`
   padding: 1px 10px;
-  margin-left: 8px;
+  margin-inline-start: 8px;
   font-size: 15px;
   background: #efefef;
   border: none;
@@ -58,7 +58,7 @@ const PresenterViewSectionContent = styled.div`
   display: flex;
   flex-direction: column;
   font-size: 18px;
-  padding-left: 40px;
+  padding-inline-start: 40px;
 `;
 
 // Section Content related:
@@ -69,7 +69,7 @@ const CheckboxLabelWrapper = styled.label`
 `;
 
 const CheckboxLabel = styled.span`
-  margin-left: 5px;
+  margin-inline-start: 5px;
 `;
 
 const PickUserButton = styled.button`
