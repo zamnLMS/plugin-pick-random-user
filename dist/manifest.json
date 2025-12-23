@@ -1,0 +1,23 @@
+{
+  "requiredSdkVersion": "~0.0.65",
+  "name": "PickRandomUserPlugin",
+  "javascriptEntrypointUrl": "PickRandomUserPlugin.js",
+  "localesBaseUrl": "locales",
+  "dataChannels": [
+    {
+      "name": "filterOptions",
+      "pushPermission": ["presenter"],
+      "replaceOrDeletePermission": ["creator", "moderator"]
+    },
+    {
+      "name": "pickRandomUser",
+      "pushPermission": ["presenter"],
+      "replaceOrDeletePermission": ["creator", "moderator"]
+    },
+    {
+      "name": "pickedUserSeenEntry",
+      "pushPermission": ["all"],
+      "replaceOrDeletePermission": ["moderator"]
+    }
+  ]
+}
