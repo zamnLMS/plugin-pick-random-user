@@ -18,5 +18,7 @@
   "pickRandomUserPlugin.modal.presenterView.previouslyPickedSection.pickButtonLabel.pickUser": "اختر {0}",
   "pickRandomUserPlugin.modal.presenterView.previouslyPickedSection.pickButtonLabel.pickAgain": "اختر مرة أخرى",
   "pickRandomUserPlugin.actionsButtonDropdown.label.pickUser": "اختر مستخدمًا عشوائيًا",
-  "pickRandomUserPlugin.actionsButtonDropdown.label.viewLastPickedUser": "عرض آخر مستخدم تم اختياره عشوائيًا"
+  "pickRandomUserPlugin.actionsButtonDropdown.label.viewLastPickedUser": "عرض آخر مستخدم تم اختياره عشوائيًا",
+  "pickRandomUserPlugin.modal.closeDelayMessage": "يمكنك إغلاق هذه النافذة خلال {seconds} ثوانٍ",
+  "pickRandomUserPlugin.modal.closeDelayMessageSingular": "يمكنك إغلاق هذه النافذة خلال {seconds} ثانية"
 }
